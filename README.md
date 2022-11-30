@@ -1,6 +1,3 @@
-# oidevs-to-do-list
-To-do List construído como projeto final do módulo de Lógica de Programação do Curso de Front-end OiDevs.
-
 <h1 align="center">To-Do List</h1>
 
 <p align="center"> Trabalho construído como projeto final do módulo de Lógica de Programação do Curso de Front-end OiDevs.</p>
@@ -42,6 +39,7 @@ Ferramentas utilizadas no desenvolvimento do projeto:
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 ---
 
